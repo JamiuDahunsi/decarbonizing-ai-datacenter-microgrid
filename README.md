@@ -2,7 +2,7 @@
 
 **Author:** Jamiu Dahunsi  
 **Affiliation:** Department of Electrical and Computer Engineering, Carnegie Mellon University (Pittsburgh, PA 15213, USA)  
-**Contact:** `jdahunsi@andrew.cmu.edu`  
+**Contact:** `jdahunsi@alumni.cmu.edu`  
 **Target Publication:** *Applied Energy* (Elsevier) / *IEEE Transactions on Sustainable Energy*
 
 ---
