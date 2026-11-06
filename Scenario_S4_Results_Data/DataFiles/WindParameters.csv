@@ -1,0 +1,4 @@
+Node,WindTech,FriendlyName,WindFixedInvest,WindForcedNumber,ExistingNumber,Age,MaxNewNumber,AllowExports,WindRatedCapacity,WindCapitalCost,WindFixedMaintCost,WindVarMaintCost,WindLifeTime,WindShed,WindReplacementCost,power_factor,WindNonLinearCapitalCost,FedITCRate,FedRatioQualifyDepreciate,FedDepreciateSchedule,StateITCRate,StateRatioQualifyDepreciate,StateDepreciateSchedule,earnRECs,UnitSpace,SpaceAllowable,PTC,TariffNumber,BTMorFOM,ScrapValue
+node1,Wind,Wind,1,0,0,0,0,0,50,1250000,2650,0,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+node1,Wind2,Wind 2,1,0,0,0,0,0,50,1250000,2650,0,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+node1,Wind3,Wind 3,1,0,0,0,0,0,50,1250000,2650,0,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

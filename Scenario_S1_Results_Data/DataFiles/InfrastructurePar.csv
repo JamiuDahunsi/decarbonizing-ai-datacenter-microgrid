@@ -1,0 +1,2 @@
+Node,InfraTech,FriendlyName,CapitalCost,AnnualMaintenance,LifeTime,FixedInvest,ForcedInvestNumber,ExistsYN,Age,ReplacementCost
+node1,Infrastructure,Utility Connection,0.0000,0.0000,15,0,0,0,0,1

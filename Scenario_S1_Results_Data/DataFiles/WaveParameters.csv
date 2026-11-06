@@ -1,0 +1,4 @@
+Node,WaveTech,FriendlyName,FixedInvest,ForcedNumber,ExistingNumber,Age,MaxNewNumber,AllowExport,RatedCapacity,CapitalCost,CableCost,CableLength,CableConfiguration,FixedMaintenance,OMVar,Lifetime,ReplacementCost,power_factor,NonLinearCost,FedITCRate,FedRatioQualifyDepreciate,FedDepreciateSchedule,StateITCRate,StateRatioQualifyDepreciable,StateDepreciateSchedule,UnitSpace,SpaceAllowable,PTC,TariffNumber,BTMorFOM,ScrapValue
+node1,Wave,Wave Energy Converter,1,0,0,0,0,0,15,82172.76,133.5,0,1,406.6475,0,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+node1,Wave2,Wave Energy Converter 2,1,0,0,0,0,0,260,1466396.57,133.5,0,1,7234.045,0,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+node1,Wave3,Wave Energy Converter 3,1,0,0,0,0,0,1000,10896930,133.5,0,1,53812,0,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0

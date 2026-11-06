@@ -1,0 +1,2 @@
+ControllerTech,FriendlyName,NodeNumber,CapitalCost,AnnualMaintenance,LifeTime,FixedInvest,ForcedInvestNumber,ExistsYN,Age,ReplacementCost
+Controller,Controller,1,0.0000,0.0000,15,0,0,0,0,1

@@ -1,0 +1,2 @@
+Node,DiscreteInvest,ContinuousInvest,DFChillInvest,WindInvest,HydroInvest,CSPInvest,CentralHVACInvest,InverterObjectInvest
+node1,1,1,0,0,0,0,0,0

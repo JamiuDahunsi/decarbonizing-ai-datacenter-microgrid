@@ -1,0 +1,50 @@
+"Month","Daytype","Technology Type","Technology Friendly Name","Rated Power","State of Battery","<HEADER>"
+January,peak,PV,Solar PV,     6903.79,-
+January,peak,DGTech01,Diesel Generator,        0.00,-
+January,peak,Load - electricity-only,Utility Connection,    18710.71,-
+
+February,peak,PV,Solar PV,     7550.74,-
+February,peak,DGTech01,Diesel Generator,        0.00,-
+February,peak,Load - electricity-only,Utility Connection,    18859.83,-
+
+March,peak,PV,Solar PV,     7459.97,-
+March,peak,DGTech01,Diesel Generator,        0.00,-
+March,peak,Load - electricity-only,Utility Connection,    18980.60,-
+
+April,peak,PV,Solar PV,     7478.21,-
+April,peak,DGTech01,Diesel Generator,        0.00,-
+April,peak,Load - electricity-only,Utility Connection,    19170.36,-
+
+May,peak,PV,Solar PV,     6129.20,-
+May,peak,DGTech01,Diesel Generator,        0.00,-
+May,peak,Load - electricity-only,Utility Connection,    19248.60,-
+
+June,peak,PV,Solar PV,     5876.39,-
+June,peak,DGTech01,Diesel Generator,        0.00,-
+June,peak,Load - electricity-only,Utility Connection,    19023.39,-
+
+July,peak,PV,Solar PV,     6372.47,-
+July,peak,DGTech01,Diesel Generator,        0.00,-
+July,peak,Load - electricity-only,Utility Connection,    18834.12,-
+
+August,peak,PV,Solar PV,     6388.22,-
+August,peak,DGTech01,Diesel Generator,        0.00,-
+August,peak,Load - electricity-only,Utility Connection,    18639.08,-
+
+September,peak,PV,Solar PV,     4733.35,-
+September,peak,DGTech01,Diesel Generator,        0.00,-
+September,peak,Load - electricity-only,Utility Connection,    18899.42,-
+
+October,peak,PV,Solar PV,     4489.25,-
+October,peak,DGTech01,Diesel Generator,        0.00,-
+October,peak,Load - electricity-only,Utility Connection,    18520.05,-
+
+November,peak,PV,Solar PV,     4630.99,-
+November,peak,DGTech01,Diesel Generator,        0.00,-
+November,peak,Load - electricity-only,Utility Connection,    18493.62,-
+
+December,peak,PV,Solar PV,     5543.59,-
+December,peak,DGTech01,Diesel Generator,        0.00,-
+December,peak,Load - electricity-only,Utility Connection,    18709.74,-
+
+

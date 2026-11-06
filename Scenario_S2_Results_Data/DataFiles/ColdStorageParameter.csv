@@ -1,0 +1,4 @@
+Node,StorageTech,EfficiencyCharge,EfficiencyDischarge,Decay,MaxChargeRate,MaxDischargeRate,MinStateOfCharge,MaxStateOfCharge,MinNumberOfCycles,MaxNumberOfCycles,DiscreteSize
+node1,ColdStorage,0.9,1,0.01,0.25,0.25,0,1,0,0,0
+node1,ColdStorage2,0.9,1,0.01,0.25,0.25,0,1,0,0,0
+node1,ColdStorage3,0.9,1,0.01,0.25,0.25,0,1,0,0,0

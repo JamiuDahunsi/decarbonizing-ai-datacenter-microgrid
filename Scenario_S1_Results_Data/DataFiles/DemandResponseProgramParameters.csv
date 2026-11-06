@@ -1,0 +1,8 @@
+ConsiderDR,0
+MaximumCapacityBid,1000
+MinimumCapacityBid,20
+FixedAnnualPaymentPerKw,1
+NotificationWindow,4
+ForcedDRBid,0
+IgnoreESS,0
+ExportsDuringDREvent,0

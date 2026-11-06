@@ -1,0 +1,5 @@
+Node,StorageTech,EfficiencyCharge,EfficiencyDischarge,Decay,StandbyDecay,MaxChargeRate,MaxDischargeRate,MinStateOfCharge,MaxStateOfCharge,MinNumberOfCycles,MaxNumberOfCycles,DiscreteSize,Tmin,Tmax
+node1,HeatStorage_HT,0.9,0.9,0.000595,0,0.25,0.25,0,1,0,0,0,65,90
+node1,HeatStorage_LT,0.9,0.9,0.000573,0,0.25,0.25,0,1,0,0,0,36,65
+node1,HeatStorage2_LT,0.9,0.9,0.000573,0,0.25,0.25,0,1,0,0,0,36,65
+node1,HeatStorage3_LT,0.9,0.9,0.000573,0,0.25,0.25,0,1,0,0,0,36,65

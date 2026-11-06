@@ -1,0 +1,13 @@
+Node,Type,FriendlyName,FixedCost,VariableCost,Lifetime,FixedMaintenance,ReplacementCost,nl_cop,NonLinearCost,UnitSpace,SpaceAllowable,TariffNumber,OMVar,FixedCapitalCostInReplacement,TechHeatLevel,ScrapValue
+node1,Central_Heating,Central_Heating,0,250,20,0,1,0,0,0,0,0,0,0,1,0
+node1,Central_Heating2,Central_Heating2,0,250,20,0,1,0,0,0,0,0,0,0,1,0
+node1,Central_Heating3,Central_Heating3,0,250,20,0,1,0,0,0,0,0,0,0,1,0
+node1,Central_Cooling,Central_Cooling,0,250,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Central_Cooling2,Central_Cooling2,0,250,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Central_Cooling3,Central_Cooling3,0,250,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Central_Refrigeration,Central_Refrigeration,0,270,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Central_Refrigeration2,Central_Refrigeration2,0,270,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Central_Refrigeration3,Central_Refrigeration3,0,270,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Electric_Heating,Electric_Heating,640,170,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Electric_Heating2,Electric_Heating2,640,170,20,0,1,0,0,0,0,0,0,0,0,0
+node1,Electric_Heating3,Electric_Heating3,640,170,20,0,1,0,0,0,0,0,0,0,0,0

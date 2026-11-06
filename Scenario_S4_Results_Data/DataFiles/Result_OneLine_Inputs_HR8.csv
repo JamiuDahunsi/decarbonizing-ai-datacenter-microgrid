@@ -1,0 +1,62 @@
+"Month","Daytype","Technology Type","Technology Friendly Name","Rated Power","State of Battery","<HEADER>"
+January,peak,PV,Solar PV,        0.00,-
+January,peak,ElectricStorage,Battery Energy Storage System,    18210.76,Discharging
+January,peak,DGTech01,Diesel Generator,        0.00,-
+January,peak,Load - electricity-only,Utility Connection,    18210.76,-
+
+February,peak,PV,Solar PV,        7.78,-
+February,peak,ElectricStorage,Battery Energy Storage System,    18407.68,Discharging
+February,peak,DGTech01,Diesel Generator,        0.00,-
+February,peak,Load - electricity-only,Utility Connection,    18415.46,-
+
+March,peak,PV,Solar PV,      512.54,-
+March,peak,ElectricStorage,Battery Energy Storage System,    17951.74,Discharging
+March,peak,DGTech01,Diesel Generator,        0.00,-
+March,peak,Load - electricity-only,Utility Connection,    18464.28,-
+
+April,peak,PV,Solar PV,     3544.99,-
+April,peak,ElectricStorage,Battery Energy Storage System,    14945.98,Discharging
+April,peak,DGTech01,Diesel Generator,        0.00,-
+April,peak,Load - electricity-only,Utility Connection,    18490.97,-
+
+May,peak,PV,Solar PV,     3352.42,-
+May,peak,ElectricStorage,Battery Energy Storage System,    15153.37,Discharging
+May,peak,DGTech01,Diesel Generator,        0.00,-
+May,peak,Load - electricity-only,Utility Connection,    18505.79,-
+
+June,peak,PV,Solar PV,     2320.53,-
+June,peak,ElectricStorage,Battery Energy Storage System,    16282.66,Discharging
+June,peak,DGTech01,Diesel Generator,        0.00,-
+June,peak,Load - electricity-only,Utility Connection,    18603.19,-
+
+July,peak,PV,Solar PV,     1746.72,-
+July,peak,ElectricStorage,Battery Energy Storage System,    16591.72,Discharging
+July,peak,DGTech01,Diesel Generator,        0.00,-
+July,peak,Load - electricity-only,Utility Connection,    18338.44,-
+
+August,peak,PV,Solar PV,     1831.34,-
+August,peak,ElectricStorage,Battery Energy Storage System,    16432.40,Discharging
+August,peak,DGTech01,Diesel Generator,        0.00,-
+August,peak,Load - electricity-only,Utility Connection,    18263.74,-
+
+September,peak,PV,Solar PV,     2547.14,-
+September,peak,ElectricStorage,Battery Energy Storage System,    15253.53,Discharging
+September,peak,DGTech01,Diesel Generator,        0.00,-
+September,peak,Load - electricity-only,Utility Connection,    17800.67,-
+
+October,peak,PV,Solar PV,     5074.83,-
+October,peak,ElectricStorage,Battery Energy Storage System,    12947.14,Discharging
+October,peak,DGTech01,Diesel Generator,        0.00,-
+October,peak,Load - electricity-only,Utility Connection,    18021.97,-
+
+November,peak,PV,Solar PV,     4633.29,-
+November,peak,ElectricStorage,Battery Energy Storage System,    13530.80,Discharging
+November,peak,DGTech01,Diesel Generator,        0.00,-
+November,peak,Load - electricity-only,Utility Connection,    18164.09,-
+
+December,peak,PV,Solar PV,     1153.46,-
+December,peak,ElectricStorage,Battery Energy Storage System,    16860.96,Discharging
+December,peak,DGTech01,Diesel Generator,        0.00,-
+December,peak,Load - electricity-only,Utility Connection,    18014.42,-
+
+

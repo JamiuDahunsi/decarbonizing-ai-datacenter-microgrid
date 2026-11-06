@@ -1,0 +1,4 @@
+Node,Technology,FriendlyName,FixedInvest,ForcedNumber,ExistingNumber,Age,lifetime,MaxNewNumber,CostPerCharger,EfficiencyCharge,ChargingStationRating,invertertag,ChargeVoltageLevel,power_factor,UnitSpace,TariffNumber,LCFSParticipation,FixedMaintenance,OptimizeCaaS,ScrapValue
+node1,EVCharger,EVCharger,1,0,0,0,15,0,0,0.99,50,0,0,0.95,0,0,0,0,0,0
+node1,EVCharger2,EVCharger2,1,0,0,0,15,0,0,0.99,50,0,0,0.95,0,0,0,0,0,0
+node1,EVCharger3,EVCharger3,1,0,0,0,15,0,0,0.99,50,0,0,0.95,0,0,0,0,0,0

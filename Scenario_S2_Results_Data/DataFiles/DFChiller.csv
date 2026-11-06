@@ -1,0 +1,3 @@
+Type,maxp,lifetime,capcost,OMFix,OMVar,fuel,COP_025,COP_050,COP_075,COP_100,alpha,chpenable
+DFChill,100,10,55,100,0.02,1,2,2,2,2,1,0
+DFChill_HX,100,10,100,30,0.02,1,2,2,2,2,1,1

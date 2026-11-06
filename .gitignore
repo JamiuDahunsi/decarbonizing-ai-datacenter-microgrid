@@ -1,0 +1,30 @@
+# Archives and large compressed files
+*.zip
+*.tar.gz
+*.7z
+
+# Literature and copyrighted PDFs
+Literature/
+
+# LaTeX intermediate build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python cache & temp scripts
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

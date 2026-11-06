@@ -1,0 +1,4 @@
+Node,solarTech,n0,a1,InletWaterTemp,OutletWaterTemp,epsilon,CurtailWasteHeat
+node1,SolarThermal,0.8212,5.1614,18,60,0.0001,1
+node1,SolarThermal2,0.8212,5.1614,18,60,0.0001,1
+node1,SolarThermal3,0.8212,5.1614,18,60,0.0001,1

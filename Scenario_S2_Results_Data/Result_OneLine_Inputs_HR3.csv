@@ -1,0 +1,50 @@
+"Month","Daytype","Technology Type","Technology Friendly Name","Rated Power","State of Battery","<HEADER>"
+January,peak,PV,Solar PV,        0.00,-
+January,peak,ElectricStorage,Battery Energy Storage System,    16658.10,Discharging
+January,peak,Load - electricity-only,Utility Connection,    16658.10,-
+
+February,peak,PV,Solar PV,        0.00,-
+February,peak,ElectricStorage,Battery Energy Storage System,    16603.57,Discharging
+February,peak,Load - electricity-only,Utility Connection,    16603.57,-
+
+March,peak,PV,Solar PV,        0.00,-
+March,peak,ElectricStorage,Battery Energy Storage System,    16993.40,Discharging
+March,peak,Load - electricity-only,Utility Connection,    16993.40,-
+
+April,peak,PV,Solar PV,        0.00,-
+April,peak,ElectricStorage,Battery Energy Storage System,    16986.06,Discharging
+April,peak,Load - electricity-only,Utility Connection,    16986.06,-
+
+May,peak,PV,Solar PV,        0.00,-
+May,peak,ElectricStorage,Battery Energy Storage System,    16880.84,Discharging
+May,peak,Load - electricity-only,Utility Connection,    16880.84,-
+
+June,peak,PV,Solar PV,        0.00,-
+June,peak,ElectricStorage,Battery Energy Storage System,        0.00,Idling
+June,peak,Load - electricity-only,Utility Connection,    16988.86,-
+
+July,peak,PV,Solar PV,        0.00,-
+July,peak,ElectricStorage,Battery Energy Storage System,        0.00,Idling
+July,peak,Load - electricity-only,Utility Connection,    16831.65,-
+
+August,peak,PV,Solar PV,        0.00,-
+August,peak,ElectricStorage,Battery Energy Storage System,     3827.33,Discharging
+August,peak,Load - electricity-only,Utility Connection,    16563.65,-
+
+September,peak,PV,Solar PV,        0.00,-
+September,peak,ElectricStorage,Battery Energy Storage System,    14007.21,Discharging
+September,peak,Load - electricity-only,Utility Connection,    16434.82,-
+
+October,peak,PV,Solar PV,        0.00,-
+October,peak,ElectricStorage,Battery Energy Storage System,    16355.96,Discharging
+October,peak,Load - electricity-only,Utility Connection,    16355.96,-
+
+November,peak,PV,Solar PV,        0.00,-
+November,peak,ElectricStorage,Battery Energy Storage System,    16376.35,Discharging
+November,peak,Load - electricity-only,Utility Connection,    16376.35,-
+
+December,peak,PV,Solar PV,        0.00,-
+December,peak,ElectricStorage,Battery Energy Storage System,    16329.33,Discharging
+December,peak,Load - electricity-only,Utility Connection,    16329.33,-
+
+

@@ -1,0 +1,13 @@
+Node,Type,FixedInvest,ForcedInvestCapacity,ExistingCapacity,Age,MaxNewCapacity
+node1,Central_Heating,1,0,0,0,0
+node1,Central_Heating2,1,0,0,0,0
+node1,Central_Heating3,1,0,0,0,0
+node1,Central_Cooling,1,0,0,0,0
+node1,Central_Cooling2,1,0,0,0,0
+node1,Central_Cooling3,1,0,0,0,0
+node1,Central_Refrigeration,1,0,0,0,0
+node1,Central_Refrigeration2,1,0,0,0,0
+node1,Central_Refrigeration3,1,0,0,0,0
+node1,Electric_Heating,1,0,0,0,0
+node1,Electric_Heating2,1,0,0,0,0
+node1,Electric_Heating3,1,0,0,0,0
