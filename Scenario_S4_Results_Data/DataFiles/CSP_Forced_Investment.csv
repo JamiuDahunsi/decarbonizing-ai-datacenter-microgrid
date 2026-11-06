@@ -1,4 +1,0 @@
-Node,Technology,FixedInvest,ForcedInvestCapacity,ExistingCapacity,Age,MaxNewCapacity,AllowExport,BTMorFOM
-node1,CSP_SolarField,1,0,0,0,0,0,0
-node1,CSP_ThermalStorage,1,0,0,0,0,0,0
-node1,CSP_Turbine,1,0,0,0,0,0,0

@@ -1,9 +1,0 @@
-time,1800
-iterations,5000000
-singleprecision,0.01
-digits,8
-PowerBalEnable,0
-PowerBalTimeScale,1
-SOCConstraint,0
-SubHourlyLosses,0
-MaxBattChargeDischargeViolations,2

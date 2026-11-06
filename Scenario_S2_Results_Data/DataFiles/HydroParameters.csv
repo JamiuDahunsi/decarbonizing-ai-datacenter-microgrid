@@ -1,4 +1,0 @@
-Node,HydroTech,friendlyname,HydroFixedInvest,HydroForcedNumber,ExistingNumber,Age,MaxNewNumber,AllowExports,HydroCapitalCost,HydroFixedMaintCost,HydroVarMaintCost,Lifetime,DesignFlowRate,AvailableHead,PipeHeadLoss,MinimumFlowRate,MaximumFlowRate,Efficiency,HydroReplacementCost,power_factor,HydroNonLinearCapitalCost,PTC,FedITCRate,FedRatioQualifyDepreciate,FedDepreciateSchedule,StateITCRate,StateRatioQualifyDepreciate,StateDepreciateSchedule,UnitSpace,SpaceAllowable,TariffNumber,BTMorFOM,ScrapValue
-node1,Hydro,Hydro Plant,1,0,0,0,0,0,3000000,0,0,5,5,100,0.1,0.1,0.99,0.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-node1,Hydro2,Hydro Plant 2,1,0,0,0,0,0,3000000,0,0,5,5,100,0.1,0.1,0.99,0.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-node1,Hydro3,Hydro Plant 3,1,0,0,0,0,0,3000000,0,0,5,5,100,0.1,0.1,0.99,0.7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0

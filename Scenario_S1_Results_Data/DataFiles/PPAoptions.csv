@@ -1,4 +1,0 @@
-node,F1,FriendlyName,FixedInvest,ForcedInvestCapacity,ExistingCapacity,Age,MaxNewCapacity,FixedFee,VariableFee,CapacityFee,lifetime,DiscreteSize,power_factor,Curtailment,UnitSpace,SpaceAllowable,TariffNumber,AllowExport,ExportPrice,OffSiteTech,BTMorFOM
-node1,PPATech1,PPATech1,1,0,0,0,0,0,0,0,15,0,1,0,0,0,0,0,0,0,0
-node1,PPATech2,PPATech2,1,0,0,0,0,0,0,0,15,0,1,0,0,0,0,0,0,0,0
-node1,PPATech3,PPATech3,1,0,0,0,0,0,0,0,15,0,1,0,0,0,0,0,0,0,0

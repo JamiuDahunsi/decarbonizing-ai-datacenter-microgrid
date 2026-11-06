@@ -1,4 +1,0 @@
-Node,HydroResTech,friendlyname,FixedInvest,ForcedNumber,ExistingNumber,Age,MaxNewNumber,AllowExport,ReservoirCost,TurbineCost,FixedMaintenance,OMVar,Lifetime,ReservoirLength,ReservoirWidth,DamElevation,OrificeElevation,OrificeArea,CoefficientOfDischarge,TurbineElevation,NominalCapacity,DesignFlowRate,PipeHeadLoss,MinimumWaterElevation,MaximumWaterElevation,MinimumOutflow,Efficiency,CustomReservoirGeometry,StartingElevation,ReplacementCost,power_factor,UnitSpace,SpaceAllowable,PTC,TariffNumber,BTMorFOM,ScrapValue
-node1,Reservoir,Hydro Reservoir,1,0,0,0,0,0,0,3462,0,0,20,403,403,90,71.5,5.896455,0.61,44,6000,,0.1,0,0,0,0.9,0,0,1,1,0,0,0,0,0,0
-node1,Reservoir2,Hydro Reservoir 2,1,0,0,0,0,0,0,3462,0,0,20,403,403,90,71.5,5.896455,0.61,44,6000,,0.1,0,0,0,0.9,0,0,1,1,0,0,0,0,0,0
-node1,Reservoir3,Hydro Reservoir 3,1,0,0,0,0,0,0,3462,0,0,20,403,403,90,71.5,5.896455,0.61,44,6000,,0.1,0,0,0,0.9,0,0,1,1,0,0,0,0,0,0

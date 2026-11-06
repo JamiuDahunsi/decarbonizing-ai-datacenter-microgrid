@@ -3,8 +3,22 @@
 *.tar.gz
 *.7z
 
-# Literature and copyrighted PDFs
+# Ignore internal detailed simulation subfolders
+Scenario_S*_Results_Data/DataFiles/
+Scenario_S*_Results_Data/Result_OneLine*
+Scenario_S*_Results_Data/Result_Basecase*
+Scenario_S*_Results_Data/Result_XenOpt*
+Scenario_S*_Results_Data/Result_Node*
+Scenario_S*_Results_Data/Result_Aggregate*
+
+# Ignore redundant working folders & literature
 Literature/
+Manuscript/
+MANUSCRIPT_DRAFT*
+RESEARCH_PROJECT_DOCUMENTATION.md
+LITERATURE_REVIEW*
+VERIFIED_LITERATURE_DOIS.md
+Energy-Data-Center-Whitepaper-V9.pdf
 
 # LaTeX intermediate build files
 *.aux
@@ -16,12 +30,20 @@ Literature/
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+Overleaf_Package/main.pdf
+Overleaf_Package/*.aux
+Overleaf_Package/*.log
+Overleaf_Package/*.out
+Overleaf_Package/*.bbl
+Overleaf_Package/*.blg
+Overleaf_Package/Figures/
 
 # Python cache & temp scripts
 __pycache__/
 *.py[cod]
 *$py.class
 *.tmp
+*.py
 
 # OS / Editor files
 .DS_Store
